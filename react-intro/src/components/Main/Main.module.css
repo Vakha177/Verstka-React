@@ -1,0 +1,41 @@
+.Btn{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    width: 58%; 
+    margin: auto;
+    border-radius: 4%;
+}
+.Number{
+    color: #f27c0f;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 288px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.oneButton,
+.twoButton,
+.tryButton {
+    width: 200px;
+    height: 58px;
+    flex-shrink: 0;
+    cursor: pointer;
+    font-family: Gilroy;
+    font-size: 24px;
+}
+
+.oneButton{
+ 
+background: #039;
+color: white;
+}
+.twoButton{
+
+background: #F27C0F;
+color: white;
+}
+.tryButton{
+background: #E5E5E5;
+}

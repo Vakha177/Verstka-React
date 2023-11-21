@@ -1,0 +1,26 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 277px;
+}
+
+.Nav {
+    display: flex;
+    gap: 40px;
+    font-family: Gilroy
+}
+
+.Nav a {
+    color: #039;
+    text-decoration: none;
+   
+}
+.logo{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+.foto{
+    margin-top: 17px;
+}
